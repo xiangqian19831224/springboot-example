@@ -1,0 +1,6 @@
+下面的配置不起作用，默认要求映射对象User采用驼峰命名： 数据库user_sex-->User.userSex
+//	@Results({
+//		@Result(property = "userSex",  column = "user_sex", javaType = UserSexEnum.class),
+//		@Result(property = "nickName", column = "nick_name")
+//	})
+
