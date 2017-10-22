@@ -1,13 +1,13 @@
-package org.arpit.java2blog.dao;
+package com.example.demo.dao;
 
-import java.util.List;
-
-import org.arpit.java2blog.model.Customer;
+import com.example.demo.model.Customer;
 import org.hibernate.Hibernate;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
+
+import java.util.List;
 
 @Repository
 public class CustomerDaoImpl implements CustomerDao{

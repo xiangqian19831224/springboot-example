@@ -1,5 +1,5 @@
 
-package org.arpit.java2blog.model;
+package com.example.demo.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -13,7 +13,7 @@ import javax.persistence.Table;
  */
 @Entity
 @Table(name="CUSTOMER")
-public class Customer{
+public class Customer {
 
 	@Id
 	@Column(name="id")

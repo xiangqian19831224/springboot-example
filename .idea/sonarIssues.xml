@@ -3,7 +3,232 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Spring-boot-hibernate-annotation/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Spring-boot-hibernate-annotation/src/main/java/com/example/demo/controller/CunstomerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Spring-boot-hibernate-annotation/src/main/java/com/example/demo/dao/CustomerDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Spring-boot-hibernate-annotation/src/main/java/com/example/demo/dao/CustomerDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Spring-boot-hibernate-annotation/src/main/java/com/example/demo/service/CustomerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Spring-boot-hibernate-annotation/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Spring-boot-hibernate/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-mulidatasource/src/main/java/com/neo/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-mulidatasource/src/main/java/com/neo/datasource/DataSource2Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-mulidatasource/src/main/java/com/neo/mapper/test1/User1Mapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-mulidatasource/src/main/java/com/neo/web/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-mulidatasource/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-tx/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-tx/src/main/java/com/example/tx/TxApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-tx/src/main/java/com/example/tx/entity/Account.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-tx/src/main/java/com/example/tx/entity/Balance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-tx/src/main/java/com/example/tx/entity/Stock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-tx/src/main/java/com/example/tx/mapper/SpringMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-tx/src/main/java/com/example/tx/service/impl/BookShopServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-tx/src/main/java/com/example/tx/web/ShopController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-tx/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation-tx/src/test/java/com/example/tx/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation/src/main/java/com/neo/mapper/UserMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-annotation/src/main/java/com/neo/web/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-mulidatasource/src/main/java/com/neo/web/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-mulidatasource/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-mulidatasource/src/main/resources/mybatis/mapper/test1/UserMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-mulidatasource/src/main/resources/mybatis/mapper/test2/UserMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-mulidatasource/src/main/resources/mybatis/mybatis-config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-xml/src/main/java/com/neo/entity/UserEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-boot-mybatis-xml/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mybatis-xml/src/main/resources/mybatis/mapper/UserMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mysql-hibernate/src/main/java/netgloo/models/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-mysql-hibernate/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/src/main/java/netgloo/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/src/main/java/netgloo/configs/DatabaseConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/src/main/java/netgloo/controllers/MainController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/src/main/java/netgloo/controllers/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/src/main/java/netgloo/models/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/src/main/java/netgloo/models/UserDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/spring-boot-samples/spring-boot-mysql-hibernate/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../learn/springbootLearn/spring-boot-examples/spring-boot-mail/src/main/java/com/neo/service/impl/MailServiceImpl.java">
           <value>
             <set />
           </value>

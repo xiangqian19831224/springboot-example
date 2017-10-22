@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring-boot-hibernate-annotation/demo.iml" filepath="$PROJECT_DIR$/Spring-boot-hibernate-annotation/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-annotation/spring-boot-mybatis-annotation.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-annotation/spring-boot-mybatis-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-annotation-mulidatasource/spring-boot-mybatis-annotation-mulidatasource.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-annotation-mulidatasource/spring-boot-mybatis-annotation-mulidatasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-annotation-tx/spring-boot-mybatis-annotation-tx.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-annotation-tx/spring-boot-mybatis-annotation-tx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-mulidatasource/spring-boot-mybatis-mulidatasource.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-mulidatasource/spring-boot-mybatis-mulidatasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-xml/spring-boot-mybatis-xml.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-xml/spring-boot-mybatis-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-example.iml" filepath="$PROJECT_DIR$/.idea/springboot-example.iml" />
+    </modules>
+  </component>
+</project>

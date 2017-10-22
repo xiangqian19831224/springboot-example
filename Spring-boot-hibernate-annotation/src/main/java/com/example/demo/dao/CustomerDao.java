@@ -1,8 +1,9 @@
-package org.arpit.java2blog.dao;
+package com.example.demo.dao;
+
+
+import com.example.demo.model.Customer;
 
 import java.util.List;
-
-import org.arpit.java2blog.model.Customer;
 
 public interface CustomerDao {
 	public List<Customer> getAllCustomers() ;

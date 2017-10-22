@@ -1,14 +1,12 @@
-package org.arpit.java2blog.service;
+package com.example.demo.service;
 
-import java.util.List;
-
-import javax.transaction.Transactional;
-
-import org.arpit.java2blog.dao.CustomerDao;
-import org.arpit.java2blog.model.Customer;
+import com.example.demo.dao.CustomerDao;
+import com.example.demo.model.Customer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import javax.transaction.Transactional;
+import java.util.List;
 
 @Service("customerService")
 public class CustomerService {
